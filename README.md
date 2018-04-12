@@ -81,3 +81,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE._
+
+### **Przeiwdywane zmiany i rozwój**
+Przewiduje się rozbudowanie użytej metody segmentacji o dodanie metody łączenia.
+Pewnym jest poprawienie kodu, szczególnie w pliku [_TreeConfiguration.py_](https://github.com/RechnioMateusz/Segmentacja-podzial/blob/master/TreeConfiguration.py)
