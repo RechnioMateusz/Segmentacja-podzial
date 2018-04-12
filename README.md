@@ -60,8 +60,8 @@ Współczynniki definiujące predykat logiczny P:
 
 ### **Licencja**
 __ __ __ __ __
-_MIT License_
-
+>**_MIT License_**
+>
 >_Copyright (c) 2018 Mateusz Rechnio_
 >
 >_Permission is hereby granted, free of charge, to any person obtaining a copy
