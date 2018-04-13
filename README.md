@@ -6,13 +6,13 @@ __ __ __ __ __
 Program służy do przeprowadzania segmentacji obrazów cyfrowych za pomocą metody podziału.
 Program wykonuje następujące kroki:
 * Import obrazu w postaci macierzy pikseli
-* Rekurencyjne dzielenie macierzy na podmacierze w zależności od współczynników
+* Rekurencyjne dzielenie macierzy na podmacierze w zależności od współczynników i tworzenie na ich podstawie drzewa czwórkowego
 * Aktualizacja wartości pikseli w odpowiednich podmacierzach
 * Eksport zaktualizowanego obrazu do pliku .jpg
 
 ### **Instalacja i uruchamianie (_windows_)**
 __ __ __ __ __
-Program jest napisany w języku _Python ver. 3.6.5_ z wykorzystaniem klasy _Image_ z biblioteki [_Pillow_](https://pillow.readthedocs.io/en/5.1.x/). Z tego powodu należy zainstalować w.w. bibliotekę za pomocą komendy:
+Program jest napisany w języku [_Python ver. 3.6.5_](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe) z wykorzystaniem klasy _Image_ z biblioteki [_Pillow_](https://pillow.readthedocs.io/en/5.1.x/). Z tego powodu należy zainstalować w.w. bibliotekę za pomocą komendy:
 - `pip install pillow`
 
 [_W razie problemów z instalacją biblioteki Pillow_](https://pillow.readthedocs.io/en/5.1.x/installation.html)
@@ -26,7 +26,7 @@ Po uruchomieniu programu należy podać ścieżkę do pliku czyli obrazu cyfrowe
 
 ![loading](https://github.com/RechnioMateusz/Segmentacja-podzial/blob/master/READMEimages/loading.jpg)
 
-Po załadowaniu obrazu mamy możliwości:
+Po załadowaniu obrazu można wybrać:
 
 ![menu](https://github.com/RechnioMateusz/Segmentacja-podzial/blob/master/READMEimages/menu.jpg)
 
