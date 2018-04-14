@@ -40,7 +40,7 @@ Po załadowaniu obrazu można wybrać:
 
 ### **Zasada działania i współczynniki**
 __ __ __ __ __
-Zasady określające logikę:
+Zasady opisujące logikę:
 * O (_obszar_) = zbiór punktów obrazu R pozostających w relacji spójności
 * R = R1 + R2 + ... + Rn (partycje)
 * P = predykat logiczny (suma logiczna warunków)
@@ -82,6 +82,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE._
 
-### **Przeiwdywane zmiany i rozwój**
+### **Przewidywane zmiany i rozwój**
 Przewiduje się rozbudowanie użytej metody segmentacji o dodanie metody łączenia.
 Pewnym jest poprawienie kodu, szczególnie w pliku [_TreeConfiguration.py_](https://github.com/RechnioMateusz/Segmentacja-podzial/blob/master/TreeConfiguration.py)
